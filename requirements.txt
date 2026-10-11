@@ -1,0 +1,3 @@
+# Versões com que os resultados do README foram verificados.
+scikit-learn==1.8.0
+matplotlib==3.10.8
